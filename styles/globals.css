@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400&display=swap');
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/* section background  */
+.sectionBg{
+  background-image: url('/backgrounds3.png') !important;
+  background-size: cover !important;
+}
+/* .container {
+    border-top: 1px solid #d8d8d8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #d8d8d8;
+    padding-bottom: 1.5rem;
+  }
+  .text {
+    margin-top: 2rem;
+  }
+  
+  .repo {
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .stack {
+    color: #f35815;
+    cursor: pointer;
+   */
+   /* Footer.module.css */
+
+/* Footer.module.css */
+
+
+
+
+.iconHover:hover {
+  color: #fff; /* Change the color to your preferred hover color */
+  transform: rotate(360deg); /* Rotate 360 degrees on hover */
+}
+
+.linkHover:hover {
+  color: #fff; /* Change the color to your preferred hover color */
+  transform: translateY(-5px); /* Move up 5 pixels on hover */
+}
+
+/* Add any other styles or animations for a creative effect */
+
+
+/* body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+} */

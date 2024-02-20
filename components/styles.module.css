@@ -1,0 +1,19 @@
+/* styles.module.css */
+
+.navLink {
+    position: relative;
+    font-size: 14px;
+    line-height: 26.25px;
+    text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 69.56px;
+    height: 21px;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out, transform 0.3s ease-in-out, scale 0.3s ease-in-out;
+  }
+ 
